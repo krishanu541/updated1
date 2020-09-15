@@ -1,0 +1,166 @@
+*
+{padding: 0;
+  margin: 0;}
+
+
+body{background-image:url(images/123456.png);
+
+}
+
+ul{ display: inline-flex;;}
+
+#menu{width: 100%;
+
+
+}
+
+div table td h1  a{  text-decoration: none;
+  font-family:cursive;
+color: #f5efef;
+
+font-size: 50px;
+}
+
+
+
+ div li a {
+   color: #fff;
+  text-decoration: none;
+ }
+
+
+
+
+
+
+.top{background-color: #145374 ;
+background-size: auto;
+}
+
+.myname:hover{ border-radius: 5px;
+
+ background: #fc8210;
+}
+.myname{display: inline;}
+
+ .menu {
+   background-color: #5eaaa8 ;
+ background-size:  cover;
+   font-size:20px;
+   text-align: center;
+   text-underline-position: none;
+
+ }
+ .menu ul{
+   list-style: none;  font-family: cursive;  }
+
+
+.menu ul li {
+   width: 200px;
+  margin: 5px;
+  padding: 15px;
+}
+
+.menu ul li:hover
+ {border-radius: 5px;
+  background: #e11d74;
+
+}
+
+.navbar{position:  ;}
+.table tr { text-decoration: none;
+
+}
+.video {  padding-left:150px; display: inline; }
+.video { padding-top: 20px;
+
+}
+.video 1 { position: ;
+}
+
+
+.video 2 { }
+
+
+.Experiences {
+
+}
+
+
+.Experiences{ background-image:url(images/111.jpg);
+  position:   ;
+  top: ;
+  right: 0px;
+  padding-left:20%;
+  height: ;
+  border-radius: 20px;
+}
+
+.Experiences{  font-family: sans-serif  ;
+
+color: #dddddd;
+
+}
+
+
+
+#DETAILS {position:  ;
+
+  background-color: ;
+  top: 1173px;
+  left: 30%;
+  width: 820px;
+
+}
+
+
+
+#DETAILS{  font-family: sans-serif  ;
+color: #d3de32;
+
+}
+
+
+#DETAILS a { text-decoration: none; font-family:  sans-serif ;
+color: #d3de32;
+}
+
+
+.Copyright{
+  background-color:  #e11d74;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+  }
+
+.Copyright{ font-family: cursive;  font-size: 25px;
+  padding: 15px;
+
+}
+
+.Copyright p a:hover { color: blue;
+
+}
+
+/* IDEA:  */
+
+/******Class Selector #new{ background-image:url(images/12345.png);
+background-size: cover;
+height: 500px;
+width: 50%;
+position: absolute;
+border-radius: 20px;
+}
+
+
+
+#middle{ background-image:url(images/1.jpg);
+background-size: cover;
+height: 500px;
+width: 50%;
+position:  absolute;
+top: 325px;
+left:50%;
+border-radius: 20px;
+}***/
